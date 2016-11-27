@@ -1,0 +1,22 @@
+{
+  "name": "unscryptd.com",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0",
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "masonry-layout": "^4.1.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "smooth-scroll": "github:cferdinandi/smooth-scroll"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "standard && react-scripts test --env=jsdom",
+    "lint": "standard \"src/**/*.js\" --fix",
+    "eject": "react-scripts eject"
+  }
+}
