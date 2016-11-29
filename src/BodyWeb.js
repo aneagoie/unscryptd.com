@@ -219,9 +219,6 @@ class BodyWeb extends Component {
                 <div className='item'>
                     <img src='images/8.jpg' alt='' />
                 </div>
-                <div className='item item-width2'>
-                    <img src='' alt='' />
-                </div>
               </div>
             </div>
           </div>
