@@ -119,7 +119,7 @@ class App extends Component {
             <div className='row'>
             <div className='col-md-12'>
             <h1>Let's Talk</h1>
-            <p>Thanks for your interest in working with unscryptd. You can email <em>yo@unscryptd.com</em>, or simply fill in the following form. We’ll be contacting you shortly.</p>
+            <p>Thanks for your interest in working with unscryptd. You can email <em><a style={{textDecoration: 'none' }} href="mailto:yo@unscryptd.com?Subject=Hello" target="_top">yo@unscryptd.com</a></em>, or simply fill in the following form. We’ll be contacting you shortly.</p>
             <form className="cd-form floating-labels" onSubmit={this.handleSubmit}>
               <fieldset>
 

@@ -2,13 +2,13 @@
     COMMONS CLASSES
 \*------------------------------------*/
 body {
-    font-family: 'Raleway', serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 20px;
 }
 
 h1, h2, h3, h4, h5, h6
 {
-    font-family: 'Raleway', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6
@@ -118,7 +118,7 @@ header .container-fluid
 
 .number .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=685');
+    background-image: url('/images/11.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -157,7 +157,15 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('images/overhead.jpeg');
+    background-image: url('/images/9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.intros .container-fluid
+{
+    background-image: url('/images/10.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -290,6 +298,11 @@ footer p
     top: 25px;
     opacity: 0;
   }
+}
+
+.center-envelope {
+  display: flex;
+  align-items: center;
 }
 
 .center {
