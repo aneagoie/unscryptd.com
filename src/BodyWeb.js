@@ -13,7 +13,7 @@ class BodyWeb extends Component {
           <div className='container-fluid'>
 
             <div className='container'>
-              <div className='row'>
+              <div style={{paddingTop: '20px'}} className='row'>
                 <div className='col-md-12 col-xs-12'>
                   <a href='#' className='thumbnail logo center'>
                     <img style={{width: '25%'}} src='images/unscryptd-logo2.png' alt='' className='img-responsive center' />
@@ -46,7 +46,7 @@ class BodyWeb extends Component {
                 <p>Many of our trips start with you and your group on planes, trains, and automobiles, as we’ve found that our clients love to explore the world.</p>
                 <p>Unscryptd will handle all the travel plans, logistics, hotels, food, and mischief.</p>
                 <p>Planning an amazing bachelor party takes a lot of time and hassle that you don’t need in your life. Unscryptd takes care of all of this, so you can focus on giving the groom a Viking’s Death.</p>
-                <a className='btn btn-danger btn-lg' href='#'>See the Video <i className='fa fa-arrow-circle-o-right' /> </a>
+                <a style={{display: 'none'}} className='btn btn-danger btn-lg' href='#'>See the Video <i className='fa fa-arrow-circle-o-right' /> </a>
               </div>
               <div className='col-md-5'>
 

@@ -117,7 +117,8 @@ class App extends Component {
             <section id='contactus' className='blog wow fadeInUp' data-wow-delay='300ms'>
             <div className='container'>
             <div className='row'>
-            <h1>How Can We Help?</h1>
+            <div className='col-md-12'>
+            <h1>Let's Talk</h1>
             <p>Thanks for your interest in working with unscryptd. You can email <em>yo@unscryptd.com</em>, or simply fill in the following form. We’ll be contacting you shortly.</p>
             <form className="cd-form floating-labels" onSubmit={this.handleSubmit}>
               <fieldset>
@@ -141,6 +142,7 @@ class App extends Component {
                   </div>
               </fieldset>
             </form>
+            </div>
             </div>
             </div>
             </section>
