@@ -4,7 +4,7 @@ import './BodyWeb.css'
 class Header extends Component {
   render () {
     return (
-        <header id='home' style={{overflow: 'auto'}}>
+        <header id='home' style={{overflow: 'scroll'}}>
           <div className='container-fluid'>
 
             <div className='container'>

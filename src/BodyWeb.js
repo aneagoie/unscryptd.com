@@ -62,7 +62,7 @@ class BodyWeb extends Component {
                       <h1>How an Unscryptd experience works:</h1>
                       <ol style={{color: 'white'}}>
                         <li>Someone from your group gets in touch with our consultants</li>
-                        <li>HThe Groom and Best Man meet with our consultants to talk about their needs</li>
+                        <li>The Groom and Best Man meet with our consultants to talk about their needs</li>
                         <li>The Unscryptd consultants go dark, coming up with a plan in the background</li>
                         <li>The morning of the bachelor party, aka The Day of Reckoning, the members of the bachelor party all get a phone call, telling them where to meet our consultants, aka, The Drop Point</li>
                         <li>Once everyone has arrived, the consultant appears and provides you with an envelope</li>
