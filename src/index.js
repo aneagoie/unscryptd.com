@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 import smoothScroll from 'smooth-scroll'
 
-smoothScroll.init();
+smoothScroll.init()
 
 ReactDOM.render(
   <App />,

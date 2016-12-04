@@ -15,17 +15,17 @@ class BodyWeb extends Component {
                   <div href='#' className='thumbnail logo center'>
                     <img style={{width: '25%'}} src='images/unscryptd-logo2.png' alt='' className='img-responsive center' />
                   </div>
-                <br/><br/>
+                  <br /><br />
                 </div>
-                <div className="envelope center-envelope">
-                  <div className="paper"></div>
+                <div className='envelope center-envelope'>
+                  <div className='paper' />
                 </div>
-                <div style={{marginTop: '-20px'}} className="jumbotron">
-                <h1>
-                  <small className="center">Bachelor parties planned by experts</small>
-                  <strong className="center">Kept Secret</strong>
-                </h1>
-                <a className='center' data-scroll href="#aboutunscryptd"><div className="mouse-icon"><div className="wheel"></div></div></a>
+                <div style={{marginTop: '-20px'}} className='jumbotron'>
+                  <h1>
+                    <small className='center'>Bachelor parties planned by experts</small>
+                    <strong className='center'>Kept Secret</strong>
+                  </h1>
+                  <a className='center' data-scroll href='#aboutunscryptd'><div className='mouse-icon'><div className='wheel' /></div></a>
                 </div>
               </div>
             </div>
@@ -46,7 +46,7 @@ class BodyWeb extends Component {
               </div>
               <div className='col-md-5'>
 
-                  <img style={{paddingTop: '120px'}} src='images/main-background2.jpeg' alt='' className='img-responsive' />
+                <img style={{paddingTop: '120px'}} src='images/main-background2.jpeg' alt='' className='img-responsive' />
 
               </div>
             </div>
@@ -56,7 +56,7 @@ class BodyWeb extends Component {
           <div className='container-fluid'>
             <div className='container'>
               <div className='row'>
-              <div className='col-md-6 opaline col-md-offset-6'>
+                <div className='col-md-6 opaline col-md-offset-6'>
                   <div className='row'>
                     <div className='col-md-offset-1 col-md-10'>
                       <h1>How an Unscryptd experience works:</h1>
@@ -85,19 +85,19 @@ class BodyWeb extends Component {
               <div className='col-md-12 text-center wow fadeInUp' data-wow-delay='100ms'>
                 <span className='typcn typcn-feather x3' />
                 <div className='container-block'>
-                <h1>What can I expect from an Unscryptd Bachelor Party?</h1>
-                <p>Each experience that we plan starts with a conversation with the Groom and Best Man, to determine what would make this experience memorable. From there we would add our flavor, to spice things up and add some surprise.</p>
-                <p>Some of the experiences could include:</p>
-                <ol>
-                        <li>Island adventures</li>
-                        <li>Hot air balloon dining</li>
-                        <li>Watch the Victoria's Secret fashion show live</li>
-                        <li>Kentucky Derby</li>
-                        <li>Playing drunk soccer</li>
-                        <li>Once the experience has started, we leave you to do what bachelor parties do best</li>
-                      </ol>
-                <h1>Then what? </h1>
-                <p>From there, we go silent. You don't hear from us unless there's something we need input on, and even then, when you hear from us, it will be vague.</p>
+                  <h1>What can I expect from an Unscryptd Bachelor Party?</h1>
+                  <p>Each experience that we plan starts with a conversation with the Groom and Best Man, to determine what would make this experience memorable. From there we would add our flavor, to spice things up and add some surprise.</p>
+                  <p>Some of the experiences could include:</p>
+                  <ol>
+                    <li>Island adventures</li>
+                    <li>Hot air balloon dining</li>
+                    <li>Watch the Victoria's Secret fashion show live</li>
+                    <li>Kentucky Derby</li>
+                    <li>Playing drunk soccer</li>
+                    <li>Once the experience has started, we leave you to do what bachelor parties do best</li>
+                  </ol>
+                  <h1>Then what? </h1>
+                  <p>From there, we go silent. You don't hear from us unless there's something we need input on, and even then, when you hear from us, it will be vague.</p>
                 </div>
               </div>
             </div>
@@ -128,7 +128,7 @@ class BodyWeb extends Component {
         </section>
         <section id='itinerary'>
           <div className='container'>
-          <div className='row features'>
+            <div className='row features'>
               <div className='col-md-12 wow fadeInUp container-block' data-wow-delay='100ms'>
                 <h1>Day of Reckoning</h1>
                 <p>The day of the bachelor party, your entire group will receive a call, telling them where and when to meet your consultant, aka the Drop Point. </p>
@@ -137,8 +137,8 @@ class BodyWeb extends Component {
                 <h1>How much does this cost?</h1>
                 <p>We customize our pricing based on two things:</p>
                 <div className='col-md-12'>
-                <p>The more people you bring, the lower the cost per attendee. The more days and more epicness will lead to a higher cost per person.</p>
-                <p>One thing to keep in mind, we are not a good fit for, “ballers on a budget.” Instead, we go above and beyond to provide the experience that you’ll never forget and we charge accordingly.</p>
+                  <p>The more people you bring, the lower the cost per attendee. The more days and more epicness will lead to a higher cost per person.</p>
+                  <p>One thing to keep in mind, we are not a good fit for, “ballers on a budget.” Instead, we go above and beyond to provide the experience that you’ll never forget and we charge accordingly.</p>
                 </div>
               </div>
             </div>
@@ -166,7 +166,7 @@ class BodyWeb extends Component {
                     <li>$2750 per-person</li>
                   </ul>
                 </div>
-                <p><a style={{textDecoration: 'none', color: '#000'}} data-scroll href="#contactus"><em>Contact us for a more accurate Quote.</em></a></p>
+                <p><a style={{textDecoration: 'none', color: '#000'}} data-scroll href='#contactus'><em>Contact us for a more accurate Quote.</em></a></p>
               </div>
             </div>
           </div>
@@ -202,22 +202,22 @@ class BodyWeb extends Component {
                 <div className='grid-sizer' />
                 <div className='gutter-sizer' />
                 <div className='item item-width2'>
-                    <img src='images/12.jpg' alt='' />
+                  <img src='images/12.jpg' alt='' />
                 </div>
                 <div className='item'>
-                    <img src='images/6.jpg' alt='' />
+                  <img src='images/6.jpg' alt='' />
                 </div>
                 <div className='item'>
-                    <img src='/images/7.jpeg' alt='' />
+                  <img src='/images/7.jpeg' alt='' />
                 </div>
                 <div className='item'>
-                    <img src='images/3.jpeg' alt='' />
+                  <img src='images/3.jpeg' alt='' />
                 </div>
                 <div className='item'>
-                    <img src='images/5.jpg' alt='' />
+                  <img src='images/5.jpg' alt='' />
                 </div>
                 <div className='item'>
-                    <img src='images/8.jpg' alt='' />
+                  <img src='images/8.jpg' alt='' />
                 </div>
               </div>
             </div>
